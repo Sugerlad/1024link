@@ -1,0 +1,159 @@
+---
+
+- taxonomy: 综合
+  icon: fas fa-dice-d6
+  links: 
+    - title: 掘金
+      logo: juejin.png
+      url: https://www.juejin.cn/
+      description: 面向全球中文开发者的技术内容分享与交流平台
+
+    - title: Quality
+      logo: quaily.ico
+      url: https://quaily.com/
+      description: 为创作者提供现代人工智慧新闻通讯服务
+
+    - title: 阮一峰的个人网站
+      logo: ruanyifeng.ico
+      url: http://www.ruanyifeng.com/
+      description: 阮一峰的个人网站
+
+
+- taxonomy: 编程
+  icon: fas fa-laptop-code fa-lg
+  list:
+
+    - term: 全栈
+      links:
+        - title: 虚伪以待
+          logo: link-favicon
+          url: https://1024.link/
+          description: 让每一个独立个体都能被世界看见
+  
+    - term: 前端
+      links:
+        - title: 虚伪以待
+          logo: link-favicon
+          url: https://1024.link/
+          description: 让每一个独立个体都能被世界看见
+        
+    - term: 后端
+      links:
+        - title: 虚伪以待
+          logo: link-favicon
+          url: https://1024.link/
+          description: 让每一个独立个体都能被世界看见
+        
+    - term: 移动端
+      links:
+        - title: 玩安卓
+          logo: wanandroid.ico
+          url: https://wanandroid.com/
+          description: 每日推荐Android优质文章
+
+        - title: Android Performance
+          logo: androidperformance.ico
+          url: https://androidperformance.com/
+          description: Focus On Android Performance
+
+        - title: 袁辉辉的技术博客
+          logo: gityuan.ico
+          url: http://gityuan.com/
+          description: 袁辉辉的技术博客
+
+- taxonomy: 语言
+  icon: fas fa-film fa-lg
+  list:
+    - term: Java
+      links:
+        - title: Java 全栈知识体系
+          logo: pdai.ico
+          url: https://pdai.tech/
+          description: Java 全栈知识体系
+
+    - term: C/C++
+      links:
+        - title: 虚伪以待
+          logo: link-favicon
+          url: https://1024.link/
+          description: 让每一个独立个体都能被世界看见
+
+    - term: Python
+      links:
+        - title: 虚伪以待
+          logo: link-favicon
+          url: https://1024.link/
+          description: 让每一个独立个体都能被世界看见
+
+    - term: GO
+      links:
+        - title: 虚伪以待
+          logo: link-favicon
+          url: https://1024.link/
+          description: 让每一个独立个体都能被世界看见
+
+    - term: C/C++
+      links:
+        - title: 虚伪以待
+          logo: link-favicon
+          url: https://1024.link/
+          description: 让每一个独立个体都能被世界看见
+
+- taxonomy: 运维
+  icon: fas fa-network-wired fa-lg
+  list:
+    - term: DevOps
+      links:
+        - title: 虚伪以待
+          logo: link-favicon
+          url: https://1024.link/
+          description: 让每一个独立个体都能被世界看见
+
+- taxonomy: 求职
+  icon: fas fa-fist-raised fa-lg
+  list:
+    - term: 1-3年经验
+      links:
+        - title: 虚伪以待
+          logo: link-favicon
+          url: https://1024.link/
+          description: 让每一个独立个体都能被世界看见
+        
+    - term: 3-5年经验
+      links:
+        - title: 虚伪以待
+          logo: link-favicon
+          url: https://1024.link/
+          description: 让每一个独立个体都能被世界看见
+
+    - term: 5-10年经验
+      links:
+        - title: 虚伪以待
+          logo: link-favicon
+          url: https://1024.link/
+          description: 让每一个独立个体都能被世界看见
+
+    - term: 10年以上经验
+      links:
+        - title: 虚伪以待
+          logo: link-favicon
+          url: https://1024.link/
+          description: 让每一个独立个体都能被世界看见
+   
+      
+- taxonomy: 招聘
+  icon: fas fa-glass-cheers fa-lg
+  list:
+    - term: 北上广深
+      links:
+        - title: 虚伪以待
+          logo: link-favicon
+          url: https://1024.link/
+          description: 让每一个独立个体都能被世界看见
+    - term: 安徽
+      links:
+        - title: 虚伪以待
+          logo: link-favicon
+          url: https://1024.link/
+          description: 让每一个独立个体都能被世界看见
+        
