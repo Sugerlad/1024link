@@ -8,6 +8,11 @@
       url: https://www.juejin.cn/
       description: 面向全球中文开发者的技术内容分享与交流平台
 
+    - title: InfoQ
+      logo: www.infoq.ico
+      url: https://www.infoq.com/
+      description: 深度技术文章、架构案例和大会演讲
+
     - title: Quality
       logo: quaily.ico
       url: https://quaily.com/
@@ -23,23 +28,53 @@
   icon: fas fa-laptop-code fa-lg
   list:
 
-    - term: 全栈
+    - term: 编程全栈
       links:
-        - title: 虚伪以待
-          logo: link-favicon
-          url: https://1024.link/
-          description: 让每一个独立个体都能被世界看见
+        - title: W3 Schools
+          logo: www.w3schools.ico
+          url: https://www.w3schools.com/
+          description: Learn to Code With the world's largest web developer site
+        
+        - title: MIT OpenCourseWare
+          logo: ocw.mit.ico
+          url: https://ocw.mit.edu/
+          description: 免费学习 MIT 计算机科学课程（如算法、操作系统）
+
+        - title: Coursera
+          logo: www.coursera.png
+          url: https://www.coursera.org/
+          description: 顶尖大学课程（如斯坦福《机器学习》、伊利诺伊《云计算》）
+
+        - title: DEV Community
+          logo: dev.webp
+          url: https://dev.to/
+          description: DEV Community
+
+        - title: freeCodeCamp
+          logo: www.freecodecamp.png
+          url: https://www.freecodecamp.org/
+          description: 免费编程学习平台，涵盖 Web 
+          
+        - title: Educative.io
+          logo: www.educative.png
+          url: https://www.educative.io/
+          description: 交互式编程课程平台，提供系统设计、算法、云原生等进阶内容（部分付费）
   
     - term: 前端
       links:
-        - title: 虚伪以待
-          logo: link-favicon
-          url: https://1024.link/
-          description: 让每一个独立个体都能被世界看见
+        - title: Frontend Masters
+          logo: frontendmasters.png
+          url: https://frontendmasters.com/
+          description: 深度前端课程（框架、性能优化、TypeScript）
+
+        - title: CSS-Tricks
+          logo: css-tricks.ico
+          url: https://css-tricks.com/
+          description: Web 开发技巧和现代 CSS 技术
         
     - term: 后端
       links:
-        - title: 虚伪以待
+        - title: 虚位以待
           logo: link-favicon
           url: https://1024.link/
           description: 让每一个独立个体都能被世界看见
@@ -64,6 +99,40 @@
 - taxonomy: 语言
   icon: fas fa-film fa-lg
   list:
+    - term: 语言综合
+      links:
+        - title: Codewars
+          logo: www.codewars.png
+          url: https://www.codewars.com/
+          description: 通过趣味编程挑战掌握多种语言，社区驱动的题目设计
+
+        - title: Exercism
+          logo: exercism.png
+          url: https://exercism.org/
+          description: 免费编程练习平台，提供代码审查和导师反馈
+
+    - term: 算法
+      links:
+        - title: LeetCode
+          logo: leetcode.png
+          url: https://leetcode.com/
+          description: 算法刷题必备，高频面试题和竞赛，适合提升编码能力和面试准备
+
+        - title: LintCode
+          logo: www.lintcode.ico
+          url: https://www.lintcode.com/
+          description: 中文算法题库，支持按企业真题分类练习
+
+        - title: HackerRank
+          logo: www.hackerrank.png
+          url: https://www.hackerrank.com/
+          description: 算法、SQL、数据结构等编程挑战，适合不同难度级别的练习
+
+        - title: Codeforces
+          logo: codeforces.png
+          url: https://codeforces.com/
+          description: 竞赛级编程题库，适合追求算法极限的开发者
+          
     - term: Java
       links:
         - title: Java 全栈知识体系
@@ -71,30 +140,47 @@
           url: https://pdai.tech/
           description: Java 全栈知识体系
 
+        - title: JavaGuide
+          logo: javaguide.ico
+          url: https://javaguide.cn/
+          description: 「Java学习 + 面试指南」涵盖 Java 程序员需要掌握的核心知识
+
     - term: C/C++
       links:
-        - title: 虚伪以待
-          logo: link-favicon
-          url: https://1024.link/
-          description: 让每一个独立个体都能被世界看见
+        - title: C++/C reference
+          logo: cppreference.ico
+          url: https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5
+          description: 我们力图为程序员提供一个全面的 C 和 C++ 语言及其标准库的在线参考资料，亦即 C 和 C++ 标准的一份更加方便实用的版本
+          
+        - title: CppGuide社区
+          logo: cppguide.ico
+          url: https://cppguide.cn/
+          description: 大家好，我是张小方 🤗，曾在字节跳动做过开发，目前在一家知名外企做 C++ 架构方面的工作，本站所有文章都为我公众号 (CppGuide)的原创文章
+
+    - term: JavaScript
+      links:
+        - title: JavaScript Weekly
+          logo: javascriptweekly.png
+          url: https://javascriptweekly.com/
+          description: JS 生态更新、库和工具推荐
 
     - term: Python
       links:
-        - title: 虚伪以待
+        - title: 虚位以待
           logo: link-favicon
           url: https://1024.link/
           description: 让每一个独立个体都能被世界看见
 
     - term: GO
       links:
-        - title: 虚伪以待
-          logo: link-favicon
-          url: https://1024.link/
-          description: 让每一个独立个体都能被世界看见
+        - title: Go Weekly
+          logo: golangweekly.png
+          url: https://golangweekly.com/
+          description: Go 语言最新动态和资源汇总
 
     - term: C/C++
       links:
-        - title: 虚伪以待
+        - title: 虚位以待
           logo: link-favicon
           url: https://1024.link/
           description: 让每一个独立个体都能被世界看见
@@ -104,7 +190,7 @@
   list:
     - term: DevOps
       links:
-        - title: 虚伪以待
+        - title: 虚位以待
           logo: link-favicon
           url: https://1024.link/
           description: 让每一个独立个体都能被世界看见
@@ -114,28 +200,28 @@
   list:
     - term: 1-3年经验
       links:
-        - title: 虚伪以待
+        - title: 虚位以待
           logo: link-favicon
           url: https://1024.link/
           description: 让每一个独立个体都能被世界看见
         
     - term: 3-5年经验
       links:
-        - title: 虚伪以待
+        - title: 虚位以待
           logo: link-favicon
           url: https://1024.link/
           description: 让每一个独立个体都能被世界看见
 
     - term: 5-10年经验
       links:
-        - title: 虚伪以待
+        - title: 虚位以待
           logo: link-favicon
           url: https://1024.link/
           description: 让每一个独立个体都能被世界看见
 
     - term: 10年以上经验
       links:
-        - title: 虚伪以待
+        - title: 虚位以待
           logo: link-favicon
           url: https://1024.link/
           description: 让每一个独立个体都能被世界看见
@@ -146,13 +232,13 @@
   list:
     - term: 北上广深
       links:
-        - title: 虚伪以待
+        - title: 虚位以待
           logo: link-favicon
           url: https://1024.link/
           description: 让每一个独立个体都能被世界看见
     - term: 安徽
       links:
-        - title: 虚伪以待
+        - title: 虚位以待
           logo: link-favicon
           url: https://1024.link/
           description: 让每一个独立个体都能被世界看见
